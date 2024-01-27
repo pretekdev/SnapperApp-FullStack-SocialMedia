@@ -25,3 +25,4 @@ export const useSignOutAccount = () => {
     mutationFn: signOutAccount
   });
 };
+
